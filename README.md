@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mani
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning pyhton
+- 🌱 I’m currently deep learning 
 - 📫 How to reach me -> telegram ID : @Mani10_official
 
 <!---
